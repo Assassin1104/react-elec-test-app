@@ -47,7 +47,6 @@ const createWindow = () => {
 app.whenReady().then(createWindow)
 ```
 
-### app/components/[App.tsx](https://github.com/matthiaaas/clean-electron-react/tree/main/app/components/App.tsx)
 
 ```tsx
 export default function App() {
